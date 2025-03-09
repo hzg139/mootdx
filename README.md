@@ -110,19 +110,3 @@ Affair.fetch(downdir='tmp', filename='gpcw19960630.zip')
 # 下载全部
 Affair.parse(downdir='tmp')
 ```
-
-加微信交流
-----------
-
-![](docs/img/IMG_2851.JPG)
-
-常见问题
---------
-
-M1 mac 系统PyMiniRacer不能使用，访问:
-<https://github.com/sqreen/PyMiniRacer/issues/143>
-
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/mootdx/mootdx.svg)](https://starchart.cc/mootdx/mootdx)
